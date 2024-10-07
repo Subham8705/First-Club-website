@@ -1,0 +1,47 @@
+.bg1{
+    background: linear-gradient(to bottom, #000000, #444343);
+}
+.event1{
+    margin: 80px;
+    height: 400px;
+    background-color: red;
+    background-image: url('./event1.jpg');
+    background-position: center;
+
+}
+.eventhead1{
+    /* background-color: gray; */
+    margin-left:40%;
+    align-self: center;
+    font-size: 50px;
+    font-weight: bold;
+    font-family:Georgia;
+
+}
+
+.eventhead{
+    margin-left: 37%;
+    align-self: center;
+    font-size: 50px;
+    font-family:Georgia;
+}
+.event2{
+    margin: 80px;
+    width: 1100px;
+    height: 450px;
+    margin-left: 240px;
+    background-size: 100%;
+    background-color: red;
+    background-image: url('./event2.jpg');
+}
+.event3{
+    margin: 80px;
+    height: 850px;
+    /* background-color: red; */
+    background-position: center;
+    background-size: 100%;
+    margin-left: 280px;
+    width: 1000px;
+    height: 480px;
+    background-image: url('./event34.jpg');
+}
